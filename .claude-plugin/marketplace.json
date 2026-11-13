@@ -1,0 +1,16 @@
+{
+  "name": "reicon",
+  "description": "The Reicon skill for coding agents",
+  "owner": {
+    "name": "Reicon",
+    "url": "https://reicon.dev"
+  },
+  "plugins": [
+    {
+      "name": "reicon",
+      "source": "./",
+      "description": "Find the right Reicon icon for a piece of UI and add it to the project."
+    }
+  ]
+}
+

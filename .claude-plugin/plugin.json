@@ -1,0 +1,20 @@
+{
+  "name": "reicon",
+  "description": "Find the right Reicon icon for a piece of UI and add it to the project.",
+  "author": {
+    "name": "Reicon",
+    "url": "https://reicon.dev"
+  },
+  "homepage": "https://reicon.dev",
+  "license": "MIT",
+  "repository": "https://github.com/dqev/reicon-skill",
+  "keywords": [
+    "icons",
+    "svg",
+    "react",
+    "vue",
+    "svelte",
+    "design"
+  ]
+}
+
